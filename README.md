@@ -1,4 +1,7 @@
 # Fake Store
+
+Este pequeno projeto faz parte do MVP da Disciplina Arquitetura de Software
+
 ---
 ## Como executar 
 
